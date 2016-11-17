@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# http://qiita.com/ta-ka/items/90f0580fd15293c35881
+
 import numpy
 from matplotlib import pyplot
 import random

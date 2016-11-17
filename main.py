@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
+# http://qiita.com/ta-ka/items/90f0580fd15293c35881
+
 from bandit import *
 
 if __name__ == '__main__':
